@@ -1,0 +1,37 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	files
+#open	2026-02-11-11-23-15
+#fields	ts	fuid	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	source	depth	analyzers	mime_type	filename	duration	local_orig	is_orig	seen_bytes	total_bytes	missing_bytes	overflow_bytes	timedout	parent_fuid	md5	sha1	sha256	extracted	extracted_cutoff	extracted_size
+#types	time	string	string	addr	port	addr	port	string	count	set[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string	bool	count
+1770826995.477777	FoRbxc4zQpx3bjfU8	C6nYlS3wgqjEAJZLo4	192.168.66.40	54356	142.251.220.99	80	HTTP	0	(empty)	application/ocsp-request	-	0.000000	T	T	84	84	0	0	F	-	-	-	-	-	-	-
+1770826995.582786	FWXBbw4PFGk3OtyD0g	C6nYlS3wgqjEAJZLo4	192.168.66.40	54356	142.251.220.99	80	HTTP	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	280	280	0	0	F	-	-	-	-	-	-	-
+1770826996.475082	FxwtNT31bX9I5XLtk5	CZdpQR1GN4vOgBZQh6	192.168.66.40	43490	34.107.221.82	80	HTTP	0	(empty)	-	-	0.000000	F	F	8	8	0	0	F	-	-	-	-	-	-	-
+1770827000.650858	FdJmRt1i1QWtpVjTwb	CyoUmabsdo0skcB6i	192.168.66.40	48260	142.250.182.78	80	HTTP	0	(empty)	text/plain	json.txt	0.000000	F	F	81	-	0	0	F	-	-	-	-	-	-	-
+1770827017.787629	FQCaOd1mSWR1sSolT4	CjILBp24iN3gmz5aTj	192.168.66.40	40876	151.101.65.91	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	471	-	0	0	F	-	-	-	-	-	-	-
+1770827018.398079	FhE8GA2fk8IiG7bBvf	CA7Ld44EtBpcxp4vA5	192.168.66.40	35918	151.101.157.91	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	471	-	0	0	F	-	-	-	-	-	-	-
+1770827018.398081	FTMU1M14fZmYzrwFw7	CIjubs2YbvQTKiPzh2	192.168.66.40	35920	151.101.157.91	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	471	-	0	0	F	-	-	-	-	-	-	-
+1770827056.314744	FR4WNW6ZlS7oJSO2c	CBqpDu4rbkmBJs52H2	192.168.66.40	46292	104.16.100.29	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	471	-	0	0	F	-	-	-	-	-	-	-
+1770827056.341283	FlhIO51cOE7nlzPLW5	CZTn4b4R2QBkczL6Wg	192.168.66.40	46300	104.16.100.29	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	471	-	0	0	F	-	-	-	-	-	-	-
+1770827056.365940	FJ3PtM3EWpMJqptRY8	C0Wc6z4knJMPuQfw98	192.168.66.40	46314	104.16.100.29	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	471	-	0	0	F	-	-	-	-	-	-	-
+1770827056.369371	F3dIOT27jxk869AvLb	CmFUpv3i9msvZ3j5Eb	192.168.66.40	46312	104.16.100.29	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	471	-	0	0	F	-	-	-	-	-	-	-
+1770827056.373146	F5D0Ql1rI4moirVji	CZCUXm4YbkKFTDppU7	192.168.66.40	46322	104.16.100.29	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	471	-	0	0	F	-	-	-	-	-	-	-
+1770827056.373147	FXjMFCgbgJPdD8Ld9	CVyPGs40u5IIavv8T9	192.168.66.40	46330	104.16.100.29	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	471	-	0	0	F	-	-	-	-	-	-	-
+1770827060.456392	Fwkwzb17NM1e7rTz7a	CN1OOf4sZNdXl0st79	192.168.66.40	33608	104.16.100.29	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	471	-	0	0	F	-	-	-	-	-	-	-
+1770827066.981389	FveU6YNPUyLWSeekc	CAFv3NZFpYnygeK4l	2401:4900:25d3:349d:9d80:eb72:e2cf:e0ce	60596	2600:1901:0:38d7::	80	HTTP	0	(empty)	-	-	0.000000	F	F	8	8	0	0	F	-	-	-	-	-	-	-
+1770827061.503028	FSb9FY16BRX4YxbD0g	CY6bRSSGSb9jmVZyd	192.168.66.40	60802	34.104.35.123	80	HTTP	0	(empty)	application/chrome-ext	-	22.278529	F	F	18257362	-	0	0	F	-	-	-	-	-	-	-
+1770827107.725826	FhLooS3uNulTO5Bhvj	CY6bRSSGSb9jmVZyd	192.168.66.40	60802	34.104.35.123	80	HTTP	0	(empty)	application/chrome-ext	-	0.007396	F	F	12491	-	0	0	F	-	-	-	-	-	-	-
+1770827131.655487	FZOkzJ3ZUnLx8vSmJc	CY6bRSSGSb9jmVZyd	192.168.66.40	60802	34.104.35.123	80	HTTP	0	(empty)	application/x-xz	-	0.047097	F	F	67976	67976	0	0	F	-	-	-	-	-	-	-
+1770827132.142662	FsXql64mNf0KHIbBTi	CY6bRSSGSb9jmVZyd	192.168.66.40	60802	34.104.35.123	80	HTTP	0	(empty)	application/x-xz	-	0.044151	F	F	58264	58264	0	0	F	-	-	-	-	-	-	-
+1770827132.863731	FfemkE11igRLLaQrH	CY6bRSSGSb9jmVZyd	192.168.66.40	60802	34.104.35.123	80	HTTP	0	(empty)	application/chrome-ext	-	0.282856	F	F	670627	-	0	0	F	-	-	-	-	-	-	-
+1770827134.393694	FlMpSChlFcLW6SaV5	C2UOWkLv92Nz6QMvd	2401:4900:25d3:349d:9d80:eb72:e2cf:e0ce	45822	2600:1900:4110:86f::	80	HTTP	0	(empty)	application/chrome-ext	-	0.000004	F	F	5187	-	0	0	F	-	-	-	-	-	-	-
+1770827135.927559	Fk2YAv4N56M8lHPDS1	C2UOWkLv92Nz6QMvd	2401:4900:25d3:349d:9d80:eb72:e2cf:e0ce	45822	2600:1900:4110:86f::	80	HTTP	0	(empty)	application/x-xz	-	0.148463	F	F	82164	82164	0	0	F	-	-	-	-	-	-	-
+1770827136.936822	FAKwNa3wfA8jffYXvi	C2UOWkLv92Nz6QMvd	2401:4900:25d3:349d:9d80:eb72:e2cf:e0ce	45822	2600:1900:4110:86f::	80	HTTP	0	(empty)	application/chrome-ext	-	0.147452	F	F	165629	-	0	0	F	-	-	-	-	-	-	-
+1770827137.699185	F5ptyo1dZPGrLTseM9	C2UOWkLv92Nz6QMvd	2401:4900:25d3:349d:9d80:eb72:e2cf:e0ce	45822	2600:1900:4110:86f::	80	HTTP	0	(empty)	application/chrome-ext	-	0.665193	F	F	878447	-	0	0	F	-	-	-	-	-	-	-
+1770827139.017611	FNjJjt4jr0mR5u5YCd	C2UOWkLv92Nz6QMvd	2401:4900:25d3:349d:9d80:eb72:e2cf:e0ce	45822	2600:1900:4110:86f::	80	HTTP	0	(empty)	application/x-xz	-	0.145545	F	F	388508	-	0	0	F	-	-	-	-	-	-	-
+1770827139.651541	FjWMRW2DZ3CPA77YX3	C2UOWkLv92Nz6QMvd	2401:4900:25d3:349d:9d80:eb72:e2cf:e0ce	45822	2600:1900:4110:86f::	80	HTTP	0	(empty)	application/x-xz	-	3.963300	F	F	4056940	4056940	0	0	F	-	-	-	-	-	-	-
+1770827150.172419	Fp91Jn36M2FW7atT5g	C2UOWkLv92Nz6QMvd	2401:4900:25d3:349d:9d80:eb72:e2cf:e0ce	45822	2600:1900:4110:86f::	80	HTTP	0	(empty)	application/x-xz	-	7.698273	F	F	4413492	4413492	0	0	F	-	-	-	-	-	-	-
+1770827173.224539	FWIgah4HEUR3LtN4Jk	C2UOWkLv92Nz6QMvd	2401:4900:25d3:349d:9d80:eb72:e2cf:e0ce	45822	2600:1900:4110:86f::	80	HTTP	0	(empty)	application/chrome-ext	-	0.244811	F	F	388998	-	0	0	F	-	-	-	-	-	-	-
+#close	2026-02-11-11-26-26

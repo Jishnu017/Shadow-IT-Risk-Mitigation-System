@@ -1,0 +1,45 @@
+   txt_path = os.path.join(REPORT_DIR, "shadowit_report.txt")
+    csv_path = os.path.join(REPORT_DIR, "shadowit_report.csv")
+
+    # TXT REPORT
+    with open(txt_path, "w") as f:
+        f.write("SHADOW IT DETECTION REPORT\n")
+        f.write(f"Generated on: {datetime.datetime.now()}\n\n")
+
+        if not results:
+            f.write("[-] No Shadow IT activity detected\n")
+            return
+
+        for item in results:
+            f.write(f"Timestamp                  : {item['timestamp']}\n")
+            f.write(f"Unauthorized Domain Detected : {item['domain']}\n")
+            f.write(f"User IP (Source)            : {item['user_ip']}\n")
+            f.write(f"Server IP (Destination)    : {item['server_ip']}\n")
+            f.write(f"Risk Level                 : {item['risk']}\n")
+            f.write("Recommendation              : Block or Monitor\n")
+            f.write("-" * 55 + "\n")
+
+    # CSV REPORT
+    with open(csv_path, "w", newline="") as csvfile:
+        fieldnames = ["timestamp", "domain", "user_ip", "server_ip", "risk"]
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        for item in results:
+            writer.writerow(item)
+
+    print("[+] Shadow IT report generated successfully (TXT + CSV)")
+
+if __name__ == "__main__":
+    clean_old_reports()  # 🔥 delete old reports first
+
+    if not os.path.exists(LOG_DIR) or not os.listdir(LOG_DIR):
+        print("[-] No Zeek logs found. Run Zeek first.")
+        exit()
+
+    domains = get_shadow_domains()
+    if not domains:
+        print("[-] No Shadow IT activity detected in dns.log")
+        exit()
+
+    results = correlate_ips(domains)
+    generate_report(results)

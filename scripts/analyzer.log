@@ -1,0 +1,10 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	analyzer
+#open	2026-02-11-11-24-27
+#fields	ts	analyzer_kind	analyzer_name	uid	fuid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	failure_reason	failure_data
+#types	time	string	string	string	string	addr	port	addr	port	enum	string	string
+1770827067.017013	protocol	QUIC	C1PeKP3NdKbn2erb1	-	2401:4900:25d3:349d:9d80:eb72:e2cf:e0ce	46855	2620:1ec:50::12	443	udp	decryption failed (/usr/src/packages/BUILD/src/analyzer/protocol/quic/QUIC.spicy:567:13-574:13)	\xce\x00\x00\x00\x01\x0e)m!\x8d\x0c\x0ew\xb5@\x89\x91\x0a\xe5\x89\x00@Ppc\x09\x9b8\x03\x00\x00\xf4\xc5\x0ff\xc7\xa6\xbe\x9c\xc2
+#close	2026-02-11-11-26-26

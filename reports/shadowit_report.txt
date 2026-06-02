@@ -1,0 +1,1333 @@
+SHADOW IT DETECTION REPORT
+Generated on: 2026-04-21 04:37:56.714404
+
+Timestamp                  : 2026-04-21 04:34:47
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2620:100:6031:18::a27d:5112
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:47
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::22fd:a35d
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:50
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2600:1901:0:38d7::
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:50
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 2620:1ec:33::10
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:44
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 2620:1ec:33::10
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:51
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 64:ff9b::d6b:890b
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:51
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2404:6800:4003:c01::bc
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:52
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2603:1061:14:151::1
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:48
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 10.145.93.208
+Server IP (Destination)    : 224.0.0.251
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:48
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : fe80::50bc:c6ff:fe32:17ef
+Server IP (Destination)    : ff02::fb
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:54
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::1496:5fa4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:54
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b2:7cbc:c23b:43e:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:55
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b2:7cbc:c23b:43e:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:55
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2620:100:6031:18::a27d:5112
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:50
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:c06:7b9a:8d78:a84d
+Server IP (Destination)    : 2409:40f4:211f:612f::d3
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:55
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::22fd:a35d
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:56
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2620:100:6031:18::a27d:5112
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:52
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:c06:7b9a:8d78:a84d
+Server IP (Destination)    : 2409:40f4:211f:612f::d3
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:57
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2603:1061:14:151::1
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:57
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b2:7cbc:c23b:43e:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:53
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:c06:7b9a:8d78:a84d
+Server IP (Destination)    : 2409:40f4:211f:612f::d3
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:59
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::1496:5fa4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:59
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b2:7cbc:c23b:43e:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:00
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b2:7cbc:c23b:43e:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:01
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2620:100:6031:18::a27d:5112
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:01
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::22fd:a35d
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:02
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b2:7cbc:c23b:43e:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:03
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::22fd:a35d
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:03
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2603:1061:14:151::1
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:05
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b0:267d:a0fd:43d:4913:ecb7
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:05
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::1496:5fa4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:05
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b2:7cbc:c23b:43e:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:06
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b2:7cbc:c23b:43e:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:06
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2600:1901:0:38d7::
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:06
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::22fd:a35d
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:01
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:c06:7b9a:8d78:a84d
+Server IP (Destination)    : 2409:40f4:211f:612f::d3
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:07
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2620:100:6031:18::a27d:5112
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:07
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2404:6800:4003:c01::bc
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:08
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::22fd:a35d
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:08
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b2:7cbc:c23b:43e:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:10
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b0:267d:a0fd:43d:4913:ecb7
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:11
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2620:100:6031:18::a27d:5112
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:11
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2603:1061:14:151::1
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:11
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::22fd:a35d
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:12
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::22fd:a35d
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:13
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 2405:200:1607:1731::312c:8312
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:13
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 2405:200:1607:1731::312c:8318
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:13
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 2600:1417:75::17d5:159
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:13
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 2600:1417:75::17d1:6748
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:13
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 64:ff9b::17dd:444a
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:13
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::1496:5fa4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:09
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 10.145.93.208
+Server IP (Destination)    : 224.0.0.251
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:09
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : fe80::50bc:c6ff:fe32:17ef
+Server IP (Destination)    : ff02::fb
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:14
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b2:7cbc:c23b:43e:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:14
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::22fd:a35d
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:15
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2620:100:6031:18::a27d:5112
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:16
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b0:267d:a0fd:43d:4913:ecb7
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:16
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b2:7cbc:c23b:43e:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:21
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::22fd:a35d
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:22
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::22fd:a35d
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:22
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2404:6800:4007:80c::2003
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:24
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b0:267d:a0fd:43d:4913:ecb7
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:20
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 10.145.93.131
+Server IP (Destination)    : 10.145.93.208
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:22
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:c06:7b9a:8d78:a84d
+Server IP (Destination)    : 2409:40f4:211f:612f::d3
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:27
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2404:6800:4007:80c::2003
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:27
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2603:1061:14:151::1
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:29
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::1496:5fa4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:30
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::1496:5fa4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:30
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b2:7cbc:c23b:43e:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:31
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2620:100:6031:18::a27d:5112
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:33
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b2:7cbc:c23b:43e:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:34
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2404:6800:4007:80c::2003
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:32
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 10.145.93.131
+Server IP (Destination)    : 10.145.93.208
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:37
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::22fd:a35d
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:38
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::22fd:a35d
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:40
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2600:1901:0:38d7::
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:40
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2404:6800:4003:c01::bc
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:40
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b0:267d:a0fd:43d:4913:ecb7
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:35
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 10.145.93.208
+Server IP (Destination)    : 224.0.0.251
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:35
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : fe80::50bc:c6ff:fe32:17ef
+Server IP (Destination)    : ff02::fb
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:41
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 2620:1ec:50::11
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:42
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2404:6800:4007:80c::2003
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:47
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 2405:200:1607:1731::312c:8318
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:44
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::22fd:a35d
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:44
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2620:100:6031:18::a27d:5112
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:31
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 10.145.93.131
+Server IP (Destination)    : 10.145.93.208
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:54
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:c06:7b9a:8d78:a84d
+Server IP (Destination)    : 2409:40f4:211f:612f::d3
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:50
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b2:7cbc:c23b:43e:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:52
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2404:6800:4000:1025::54
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:51
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:c06:7b9a:8d78:a84d
+Server IP (Destination)    : 2409:40f4:211f:612f::d3
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:58
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2404:6800:4007:80c::2003
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:53
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 10.145.93.131
+Server IP (Destination)    : 10.145.93.208
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:59
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2600:1901:0:38d7::
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:00
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2620:100:6031:18::a27d:5112
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:01
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b0:267d:a0fd:43d:4913:ecb7
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:01
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::12a1:f632
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:00
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2603:1061:14:151::1
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:01
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2001:4860:482b:7700::
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:06
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 0.0.0.0
+Server IP (Destination)    : 255.255.255.255
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:06
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 10.145.93.208
+Server IP (Destination)    : 255.255.255.255
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:00
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 64:ff9b::312c:91cc
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:00
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 10.145.93.131
+Server IP (Destination)    : 49.44.145.204
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:56
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 2600:1417:75::17d5:159
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:02
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b2:7cbc:c23b:43e:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:02
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::1496:5fa4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:04
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b0:267d:a0fd:43d:4913:ecb7
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:04
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2600:1901:0:38d7::
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:04
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2620:100:6031:18::a27d:5112
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:06
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b2:7cbc:c23b:43e:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:02
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:c06:7b9a:8d78:a84d
+Server IP (Destination)    : 2409:40f4:211f:612f::d3
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:09
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b2:7cbc:c23b:43e:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:04
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 10.145.93.208
+Server IP (Destination)    : 224.0.0.251
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:04
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : fe80::50bc:c6ff:fe32:17ef
+Server IP (Destination)    : ff02::fb
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:10
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2600:1901:0:38d7::
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:10
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::22fd:a35d
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:13
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b0:267d:a0fd:43d:4913:ecb7
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:18
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2600:1901:0:38d7::
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:21
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b2:7cbc:c23b:43e:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:58
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : fe80::500:9d9c:7d2b:5665
+Server IP (Destination)    : ff02::1:2
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:31
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2404:6800:4007:80c::2003
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:33
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 2404:6800:4007:83e::2003
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:31
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 2600:1417:75:48f::21cc
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:32
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 2600:14e1:18:6d::
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:32
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 2a04:4e42:9::684
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:34
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2600:1901:0:38d7::
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:35
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2600:1901:0:38d7::
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:30
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 10.145.93.208
+Server IP (Destination)    : 224.0.0.251
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:30
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : fe80::50bc:c6ff:fe32:17ef
+Server IP (Destination)    : ff02::fb
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:20
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 2600:1417:75::17d5:181
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:32
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 10.145.93.131
+Server IP (Destination)    : 10.145.93.208
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:37
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 64:ff9b::142a:4158
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:39
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b2:7cbc:c23b:43e:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:43
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2001:4860:4802:34::223
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:39
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:c06:7b9a:8d78:a84d
+Server IP (Destination)    : 2409:40f4:211f:612f::d3
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:45
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2404:6800:4003:c01::bc
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:48
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2001:4860:4802:34::223
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:53
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 2001:4860:4802:36::223
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:49
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2620:100:6031:18::a27d:5112
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:50
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2620:100:6031:18::a27d:5112
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:51
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:9c62:7cbc:c2c6:43c:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:50
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::22fd:a35d
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:50
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2404:6800:4003:c01::bc
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:51
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b0:267d:a0fe:43d:4913:ecb7
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:20
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 64:ff9b::491:b24
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:54
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2001:4860:4802:34::223
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:49
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:c06:7b9a:8d78:a84d
+Server IP (Destination)    : 2409:40f4:211f:612f::d3
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:55
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2001:4860:4802:34::223
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:50
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:c06:7b9a:8d78:a84d
+Server IP (Destination)    : 2409:40f4:211f:612f::d3
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:55
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2620:100:6031:18::a27d:5112
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:55
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::22fd:a35d
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:51
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:c06:7b9a:8d78:a84d
+Server IP (Destination)    : 2409:40f4:211f:612f::d3
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:56
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b0:267d:a0fe:43d:4913:ecb7
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:57
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2404:6800:4003:c01::bc
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:01
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2001:4860:482b:7700::
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:37:01
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2620:100:6031:18::a27d:5112
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:37:01
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::22fd:a35d
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:37:02
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b0:267d:a0fe:43d:4913:ecb7
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:37:02
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2001:4860:4802:34::223
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:37:03
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2001:4860:4802:34::223
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:37:05
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2404:6800:4003:c01::bc
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:37:08
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2600:1901:0:38d7::
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:37:08
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:9c62:7cbc:c2c6:43c:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:37:09
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2620:100:6031:18::a27d:5112
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:37:09
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::22fd:a35d
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:37:05
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:c06:7b9a:8d78:a84d
+Server IP (Destination)    : 2409:40f4:211f:612f::d3
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:37:10
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2620:100:6031:18::a27d:5112
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:37:10
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:83b0:267d:a0fe:43d:4913:ecb7
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:37:12
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:9c62:7cbc:c2c6:43c:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:37:13
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:9c62:7cbc:c2c6:43c:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:37:15
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2620:100:6031:18::a27d:5112
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:37:05
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2606:4700:9c62:7cbc:c2c6:43c:5ff2:75c4
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:37:04
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::12a1:f650
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:37:01
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2001:4860:482b:7700::
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:51
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::12a1:f650
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:39
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 2001:4860:4802:34::223
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:32
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 10.145.93.131
+Server IP (Destination)    : 239.255.255.250
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:30
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 2603:1040:a06:6::1
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:37:15
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : 64:ff9b::12a1:f650
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:10
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : fe80::50bc:c6ff:fe32:17ef
+Server IP (Destination)    : fe80::500:9d9c:7d2b:5665
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:10
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 0.0.0.0
+Server IP (Destination)    : 255.255.255.255
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:36:05
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : fe80::500:9d9c:7d2b:5665
+Server IP (Destination)    : fe80::50bc:c6ff:fe32:17ef
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:59
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:2049:f87a:1299:8265:a679:85e
+Server IP (Destination)    : ff02::1:ff00:f3
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:32
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 2600:1417:75::17d1:6741
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:27
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : fe80::da27:da69:e3c2:2ad
+Server IP (Destination)    : 2409:40f4:211f:612f::d3
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:21
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : fe80::50bc:c6ff:fe32:17ef
+Server IP (Destination)    : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:20
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 2409:40f4:211f:612f:2cf2:5ac3:1d00:2739
+Server IP (Destination)    : 64:ff9b::acbc:9b19
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:15
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : fe80::da27:da69:e3c2:2ad
+Server IP (Destination)    : fe80::50bc:c6ff:fe32:17ef
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:06
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : fe80::50bc:c6ff:fe32:17ef
+Server IP (Destination)    : 2409:40f4:211f:612f:c06:7b9a:8d78:a84d
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:35:23
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : fe80::50bc:c6ff:fe32:17ef
+Server IP (Destination)    : fe80::da27:da69:e3c2:2ad
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
+Timestamp                  : 2026-04-21 04:34:47
+Unauthorized Domain Detected : dropbox.com
+User IP (Source)            : 10.145.93.131
+Server IP (Destination)    : 202.39.224.7
+Risk Level                 : HIGH
+Recommendation              : Block or Monitor
+-------------------------------------------------------
